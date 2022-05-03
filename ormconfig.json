@@ -5,7 +5,7 @@
     "port":3306,
     "username":"root",
     "password":"12345",
-    "database":"carGo",
+    "database":"cargo",
     "entities":["dist/**/entities/*{.ts,.js}"],
     "synchronize":true
     ,"migrations":["src/migrations/*{.ts,.js}"],
